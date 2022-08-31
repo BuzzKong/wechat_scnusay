@@ -11,6 +11,10 @@
         "pages/index/index4",
         "pages/index/updateinfo",
         "pages/lostthing/index",
+        "pages/lostthing/details",
+        "pages/lostthing/search",
+        "pages/lostthing/send",
+        "pages/hots/index",
         "pages/SecendHandChange/index",
         "pages/SecendHandChange/detail",
         "pages/SecendHandChange/mypublish",
@@ -29,8 +33,8 @@
         "pages/team/my_publish/index",
         "pages/team/publish/index",
         "pages/team/detail/index",
-        "pages/team/search/index"
-
+        "pages/team/search/index",
+        "pages/talk/content/index"
 
     ],
     "tabBar": {
